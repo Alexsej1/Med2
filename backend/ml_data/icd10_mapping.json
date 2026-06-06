@@ -1,0 +1,247 @@
+{
+  "ОРВИ": {
+    "code": "J06.9",
+    "title_ru": "Острая инфекция верхних дыхательных путей неуточнённая",
+    "title_en": "Acute upper respiratory infection, unspecified"
+  },
+  "Грипп": {
+    "code": "J11.1",
+    "title_ru": "Грипп с другими респираторными проявлениями",
+    "title_en": "Influenza with other respiratory manifestations"
+  },
+  "Острый фарингит": {
+    "code": "J02.9",
+    "title_ru": "Острый фарингит неуточнённый",
+    "title_en": "Acute pharyngitis, unspecified"
+  },
+  "Стрептококковая ангина": {
+    "code": "J03.90",
+    "title_ru": "Острый тонзиллит неуточнённый",
+    "title_en": "Acute tonsillitis, unspecified"
+  },
+  "Острый ларингит": {
+    "code": "J04.0",
+    "title_ru": "Острый ларингит",
+    "title_en": "Acute laryngitis"
+  },
+  "Острый синусит": {
+    "code": "J01.90",
+    "title_ru": "Острый синусит неуточнённый",
+    "title_en": "Acute sinusitis, unspecified"
+  },
+  "Острый средний отит": {
+    "code": "H66.90",
+    "title_ru": "Острый отит неуточнённый",
+    "title_en": "Acute otitis media, unspecified"
+  },
+  "Острый бронхит": {
+    "code": "J20.9",
+    "title_ru": "Острый бронхит неуточнённый",
+    "title_en": "Acute bronchitis, unspecified"
+  },
+  "Обострение ХОБЛ": {
+    "code": "J44.1",
+    "title_ru": "ХОБЛ с обострением острой нижней дыхательной инфекции",
+    "title_en": "Chronic obstructive pulmonary disease with acute exacerbation"
+  },
+  "Пневмония": {
+    "code": "J18.9",
+    "title_ru": "Пневмония неуточнённая",
+    "title_en": "Pneumonia, unspecified organism"
+  },
+  "Бронхиальная астма (приступ)": {
+    "code": "J45.901",
+    "title_ru": "Бронхиальная астма неуточнённая",
+    "title_en": "Unspecified asthma with status asthmaticus"
+  },
+  "COVID‑19 (лёгкое течение)": {
+    "code": "U07.1",
+    "title_ru": "COVID-19",
+    "title_en": "COVID-19"
+  },
+  "Инфекционный мононуклеоз": {
+    "code": "B27.90",
+    "title_ru": "Инфекционный мононуклеоз неуточнённый",
+    "title_en": "Infectious mononucleosis, unspecified"
+  },
+  "Острый гастрит": {
+    "code": "K29.00",
+    "title_ru": "Острый гастрит неуточнённый",
+    "title_en": "Acute gastritis, unspecified"
+  },
+  "Острый гастроэнтерит": {
+    "code": "A09",
+    "title_ru": "Инфекционный гастроэнтерит и колит",
+    "title_en": "Infectious gastroenteritis and colitis, unspecified"
+  },
+  "Синдром раздражённого кишечника": {
+    "code": "K58.9",
+    "title_ru": "Синдром раздражённого кишечника без диареи",
+    "title_en": "Irritable bowel syndrome without diarrhea"
+  },
+  "Язвенная болезнь желудка (обострение)": {
+    "code": "K25.9",
+    "title_ru": "Язва желудка неуточнённая",
+    "title_en": "Gastric ulcer, unspecified"
+  },
+  "Острый панкреатит (типичная картина)": {
+    "code": "K85.90",
+    "title_ru": "Острый панкреатит неуточнённый",
+    "title_en": "Acute pancreatitis, unspecified"
+  },
+  "Геморрой / анальная трещина с кровью": {
+    "code": "K64.9",
+    "title_ru": "Геморрой неуточнённый",
+    "title_en": "Unspecified hemorrhoids"
+  },
+  "Мигрень": {
+    "code": "G43.909",
+    "title_ru": "Мигрень неуточнённая",
+    "title_en": "Migraine, unspecified, not intractable"
+  },
+  "Напряжённая головная боль": {
+    "code": "G44.209",
+    "title_ru": "Головная боль напряжения неуточнённая",
+    "title_en": "Tension-type headache, unspecified"
+  },
+  "Вестибулярный неврит": {
+    "code": "H81.10",
+    "title_ru": "Доброкачественное пароксизмальное головокружение",
+    "title_en": "Benign paroxysmal vertigo"
+  },
+  "Цервикалгия": {
+    "code": "M54.2",
+    "title_ru": "Цервикалгия",
+    "title_en": "Cervicalgia"
+  },
+  "Люмбаго / радикулопатия": {
+    "code": "M54.5",
+    "title_ru": "Боль в нижней части спины",
+    "title_en": "Low back pain"
+  },
+  "Острый цистит": {
+    "code": "N30.00",
+    "title_ru": "Острый цистит без гематурии",
+    "title_en": "Acute cystitis without hematuria"
+  },
+  "Уретрит": {
+    "code": "N34.1",
+    "title_ru": "Неспецифический уретрит",
+    "title_en": "Nonspecific urethritis"
+  },
+  "Пиелонефрит": {
+    "code": "N12",
+    "title_ru": "Тубулоинтерстициальный нефрит",
+    "title_en": "Tubulo-interstitial nephritis"
+  },
+  "Мочекаменная болезнь (приступ)": {
+    "code": "N20.0",
+    "title_ru": "Камень почки",
+    "title_en": "Calculus of kidney"
+  },
+  "Стенокардия напряжения": {
+    "code": "I20.9",
+    "title_ru": "Стенокардия неуточнённая",
+    "title_en": "Angina pectoris, unspecified"
+  },
+  "Острая сердечная недостаточность": {
+    "code": "I50.9",
+    "title_ru": "Сердечная недостаточность неуточнённая",
+    "title_en": "Heart failure, unspecified"
+  },
+  "Пароксизмальная тахикардия": {
+    "code": "I47.9",
+    "title_ru": "Пароксизмальная тахикардия неуточнённая",
+    "title_en": "Paroxysmal tachycardia, unspecified"
+  },
+  "Гипотиреоз": {
+    "code": "E03.9",
+    "title_ru": "Гипотиреоз неуточнённый",
+    "title_en": "Hypothyroidism, unspecified"
+  },
+  "Тиреотоксикоз": {
+    "code": "E05.90",
+    "title_ru": "Тиреотоксикоз неуточнённый",
+    "title_en": "Thyrotoxicosis, unspecified"
+  },
+  "Декомпенсация сахарного диабета": {
+    "code": "E11.65",
+    "title_ru": "Сахарный диабет 2 типа с гипергликемией",
+    "title_en": "Type 2 diabetes mellitus with hyperglycemia"
+  },
+  "Аллергический дерматит": {
+    "code": "L23.9",
+    "title_ru": "Аллергический контактный дерматит неуточнённый",
+    "title_en": "Allergic contact dermatitis, unspecified cause"
+  },
+  "Крапивница": {
+    "code": "L50.9",
+    "title_ru": "Крапивница неуточнённая",
+    "title_en": "Urticaria, unspecified"
+  },
+  "Опоясывающий герпес": {
+    "code": "B02.9",
+    "title_ru": "Опоясывающий лишай без осложнений",
+    "title_en": "Zoster without complications"
+  },
+  "Остеоартроз (обострение)": {
+    "code": "M19.90",
+    "title_ru": "Остеоартроз неуточнённый",
+    "title_en": "Unspecified osteoarthritis, unspecified site"
+  },
+  "Подагрический артрит (приступ)": {
+    "code": "M10.9",
+    "title_ru": "Подагра неуточнённая",
+    "title_en": "Gout, unspecified"
+  },
+  "Тромбоз глубоких вен (подозрительная картина)": {
+    "code": "I82.409",
+    "title_ru": "Тромбоз глубоких вен нижней конечности неуточнённый",
+    "title_en": "Acute embolism and thrombosis of unspecified deep veins of lower extremity"
+  },
+  "Желтуха (гепатобилиарная картина)": {
+    "code": "R17",
+    "title_ru": "Неспецифическая желтуха",
+    "title_en": "Unspecified jaundice"
+  },
+  "Острое нарушение мозгового кровообращения (тревожные симптомы)": {
+    "code": "I64",
+    "title_ru": "Инсульт неуточнённый",
+    "title_en": "Stroke, not specified as hemorrhage or infarction"
+  },
+  "Пневмоторакс (тревожная картина)": {
+    "code": "J93.9",
+    "title_ru": "Пневмоторакс неуточнённый",
+    "title_en": "Pneumothorax, unspecified"
+  },
+  "Туберкулёз лёгких (настороженная картина)": {
+    "code": "A15.0",
+    "title_ru": "Туберкулёз лёгких",
+    "title_en": "Respiratory tuberculosis"
+  },
+  "Злокачественное новообразование (неспецифическая картина)": {
+    "code": "C80.1",
+    "title_ru": "Злокачественное новообразование неуточнённое",
+    "title_en": "Malignant neoplasm, unspecified"
+  },
+  "Анемия тяжёлая": {
+    "code": "D64.9",
+    "title_ru": "Анемия неуточнённая",
+    "title_en": "Anemia, unspecified"
+  },
+  "Почечная колика": {
+    "code": "N23",
+    "title_ru": "Почечная колика неуточнённая",
+    "title_en": "Unspecified renal colic"
+  },
+  "Пищевая аллергия": {
+    "code": "T78.1XXA",
+    "title_ru": "Другая пищевая непереносимость",
+    "title_en": "Other adverse food reactions, initial encounter"
+  },
+  "Пневмония атипичная": {
+    "code": "J18.9",
+    "title_ru": "Пневмония неуточнённая",
+    "title_en": "Pneumonia, unspecified organism"
+  }
+}
